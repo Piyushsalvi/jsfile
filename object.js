@@ -1,15 +1,17 @@
-let details = {
-    name:"piyush",
-    age:24,
-    location:"indore"
-}
+// let details = {
+//     name:"piyush",
+//     age:24,
+//     location:"indore"
+// }
 
-console.log(details);
+// console.log(details);
 
-const detailss= {
-    name:"piyush salvi",
-    age:24,
-    location:"inida"
-}
+// const detailss= {
+//     name:"piyush salvi",
+//     age:24,
+//     location:"inida"
+// }
 
-console.log(detailss)
+console.log(detailss
+
+

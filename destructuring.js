@@ -3,6 +3,7 @@
 //     age:24
 // }
 
+// 
 // const {namee , age}= person;
 // console.log( age);
 // console.log(namee);
